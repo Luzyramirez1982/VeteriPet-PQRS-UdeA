@@ -149,3 +149,30 @@ El presupuesto no se liquida en dinero en efectivo sino en **tiempo de práctica
 | **Generación de Radicado ASCII y Estadísticas (reportes.py)** | 10 hrs | 50 hrs | $8.338 | $416.900 |
 | **Manual de Usuario, Pruebas y Sustentación Final** | 5 hrs | 25 hrs | $8.338 | $208.450 |
 | **TOTAL GENERAL DEL PROYECTO** | **50 hrs** | **250 hrs** | **N/A** | **$2.084.500 COP** |
+
+
+
+
+# 8. Plan de Versionado
+
+El proyecto **VeteriPet UdeA** se desarrolla en 10.3 semanas (72 días). Cada versión corresponde a un procedimiento relevante del cronograma. Los días se cuentan desde el inicio del proyecto (día 1).
+
+Se utiliza versionado semántico simplificado (`MAYOR.MENOR.PARCHE`) y se registra un avance cada vez que se completa un procedimiento relevante del proyecto, desde el inicio hasta la entrega final.
+
+| Versión | Fecha (día desde inicio / Fecha real) | Descripción del avance |
+| :--- | :--- | :--- |
+| **0.1.0** | Día 1 (20 ago) | Asignación de tareas específicas, plazos de entrega e inicio del procedimiento de actas exigido por el curso. |
+| **0.2.0** | Día 4 (23 ago) | Creación del repositorio en GitHub y estructuración de carpetas (`src`, `docs`, `images`, `data`). |
+| **0.3.0** | Día 8 (27 ago) | Firma y formalización de las Actas del equipo (Entendimiento, Colaboración y Responsabilidad). |
+| **0.4.0** | Día 13 (1 sep) | Especificación de requisitos y consolidación del Reporte de Visión del sistema. |
+| **0.5.0** | Día 17 (5 sep) | Nombre oficial VeteriPet UdeA, diseño del logo, definición de la licencia e imagen institucional. |
+| **0.6.0** | Día 21 (9 sep) | Desarrollo y pruebas independientes del módulo de validaciones (`validaciones.py`). |
+| **0.7.0** | Día 25 (13 sep) | Implementación del módulo de archivos planos (`archivos.py`) para almacenamiento de PQRS. |
+| **0.8.0** | Día 28 (16 sep) | Módulo de reportes (`reportes.py`), comprobante ASCII e integración del menú interactivo en `main.py`. |
+| **0.9.0** | Día 29 (17 sep) | Pruebas integrales de funcionamiento de todas las opciones de la consola CLI. |
+| **1.0.0** | Día 30 (18 sep) | Entrega 1: Presentación de la primera fase del programa funcional y documentación base (puntos 1 a 7). |
+| **1.1.0** | Día 41 (29 sep) | Ajustes en las reglas de validación y precisión del formato del comprobante ASCII de 120 caracteres. |
+| **1.2.0** | Día 51 (9 oct) | Redacción y estructuración del Manual de Usuario completo en la documentación. |
+| **1.3.0** | Día 56 (14 oct) | Pruebas de usabilidad del menú interactivo y verificación de métricas e indicadores de respuesta. |
+| **2.0.0** | Día 72 (30 oct) | Entrega 2: Sistema completo finalizado, documentado y listo para sustentación. |
+
