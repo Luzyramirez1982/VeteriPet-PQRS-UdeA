@@ -1,10 +1,16 @@
-ACTA DE ACEPTACIÓN DE DISOLUCIÓN DE GRUPO Y CONTINUACIÓN DE TRABAJO INDEPENDIENTE
-Proyecto: Gestor de PQRS - VeteriPet UdeA
-Curso: Algoritmia y Programación
-Fecha: 13de octubre de 2026
-1. OBJETIVO
+# ACTA DE ACEPTACIÓN DE DISOLUCIÓN DE GRUPO Y CONTINUACIÓN DE TRABAJO INDEPENDIENTE 
+
+**Proyecto**: Gestor de PQRS - VeteriPet UdeA
+
+**Curso**: Algoritmia y Programación
+
+**Fecha**: 13 de octubre de 2026
+
+**1. OBJETIVO**
 Dejar constancia formal de que las integrantes firmantes aceptan la disolución del equipo de trabajo inicial del proyecto "VeteriPet UdeA" y de que continuarán el desarrollo del proyecto de manera independiente para la fase de programación (Entrega 2).
-2. INTEGRANTES DEL GRUPO INICIAL
+
+**2. INTEGRANTES DEL GRUPO INICIAL**
+
 •	Nayeli Vergara Mazo
 •	Maximiliano González López
 •	Luz Yadira Ramírez Rojas
