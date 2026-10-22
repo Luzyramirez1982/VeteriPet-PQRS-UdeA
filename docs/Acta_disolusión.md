@@ -72,13 +72,11 @@ Las integrantes que suscriben la presente acta dejan constancia de que
 
 ## 4. Registro y firmas
 
- | Nombre completo | Documento | Firma |
-|---|---|
-| _Luz Yadira Ramirez Rojasr_ | 43.908.906 |_ <img src="../imagenes/Yadira.png" width="200"> |
-
-| _Brianda Isabel Saenz Llorente_ | 1.045.508.755 |_ <img src="../imagenes/Brianda.png" width="200"> |
-
-| _Aura Jhosceline Hurtado Botero_ | 1.036.395.089 |_ <img src="../imagenes/Aura Hurtado.png" width="200"> |
+| Nombre completo | Documento | Firma |
+|---|---|---|
+| _Luz Yadira Ramirez Rojas_ |_43.908906_ |<img src="../imagenes/Yadira.png" width="200"> |
+| _Brianda Isabel Saenz Llorente_ |_1.045.508.755_ | <img src="../imagenes/Brianda.png" width="200"> |
+| _Aura Jhosceline Hurtado Botero_ |_1.036.395.089_ | <img src="../imagenes/Aura Hurtado.png" width="200"> |
 
                                         
   --------------------------------------------------------------------------------------------------------------
