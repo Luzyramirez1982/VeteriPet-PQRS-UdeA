@@ -72,7 +72,13 @@ Las integrantes que suscriben la presente acta dejan constancia de que
 
 ## 4. Registro y firmas
 
- 
+ | Nombre completo | Documento | Firma |
+|---|---|
+| _Luz Yadira Ramirez Rojasr_ | 43.908.906 |_ <img src="../imagenes/Yadira.png" width="200"> |
+
+| _Brianda Isabel Saenz Llorente_ | 1.045.508.755 |_ <img src="../imagenes/Brianda.png" width="200"> |
+
+| _Aura Jhosceline Hurtado Botero_ | 1.036.395.089 |_ <img src="../imagenes/Aura Hurtado.png" width="200"> |
 
                                         
   --------------------------------------------------------------------------------------------------------------
@@ -82,12 +88,6 @@ Las integrantes que suscriben la presente acta dejan constancia de que
 **Estado:** Recibido por el docente; queda enterado del contenido del
 documento.
 
-**Nombre del docente:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Nombre del docente:** John Heider Davila Davila
 
-**Firma:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Fecha de recepción:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+**Fecha de recepción:** 19 de octubre de 2026
