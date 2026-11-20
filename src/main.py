@@ -544,7 +544,6 @@ def cambiar_estado_pqrs():
 
 
 def mostrar_menu():
-def mostrar_banner_veteripet():
     """Mantiene el menú activo hasta que la persona elija salir."""
     banner_veteripet = r"""
     ██╗   ██╗███████╗████████╗███████╗██████╗ ██╗██████╗ ███████╗████████╗
