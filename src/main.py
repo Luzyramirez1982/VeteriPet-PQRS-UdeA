@@ -307,7 +307,7 @@ def registrar_pqrs():
         return
 
     fecha_maxima_respuesta = fecha_radicacion + timedelta(days=30)
-    radicado = "PQRS-" + fecha_radicacion.strftime("%Y%m%d-%H%M%S-%f")
+    radicado = "PQRS-" + fecha_radicacion.strftime("%Y%m%d-%H%M%S")
     registros = cargar_registros()
     id_registro = siguiente_id_tipo(registros, tipo)
     fecha_maxima_texto = fecha_maxima_respuesta.strftime(FORMATO_FECHA_RADICACION)
