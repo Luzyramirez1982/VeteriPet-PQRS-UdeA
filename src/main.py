@@ -557,6 +557,7 @@ def mostrar_menu():
     print(banner_veteripet)
     while True:
         print("\n================ Bienvenidos al Sistema de gestión de PQRS =================")
+        
         print("1. Registrar PQRS")
         print("2. Consultar PQRS")
         print("3. Registrar cambio en PQRS")
