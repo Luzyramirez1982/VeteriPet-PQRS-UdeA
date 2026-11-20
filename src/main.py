@@ -545,6 +545,7 @@ def cambiar_estado_pqrs():
 
 def mostrar_menu():
     """Mantiene el menú activo hasta que la persona elija salir."""
+    
     banner_veteripet = r"""
     ██╗   ██╗███████╗████████╗███████╗██████╗ ██╗██████╗ ███████╗████████╗
     ██║   ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗██║██╔══██╗██╔════╝╚══██╔══╝
@@ -554,9 +555,11 @@ def mostrar_menu():
       ╚═══╝  ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚══════╝   ╚═╝
     """
 
-    print(banner_veteripet)
+    
     while True:
+        print(banner_veteripet)
         print("\n================ Bienvenidos al Sistema de gestión de PQRS =================")
+        print()
         
         print("1. Registrar PQRS")
         print("2. Consultar PQRS")
