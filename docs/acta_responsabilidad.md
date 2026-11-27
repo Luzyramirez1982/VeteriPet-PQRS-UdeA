@@ -25,10 +25,25 @@ de evaluación, en cumplimiento del procedimiento de actas exigido por el curso.
 | _Luz Yadira Ramirez y Nayeli Vargas Mazo_ | Actas | Elaboraran las primera tres actas 8Colaboración, Entendimiento y Responsabilidad| _10/09/2026_ |
 
 
+## 2.1 Actualización de responsabilidades – Segunda entrega
 
-> Nota: todos los integrantes son responsables de conocer y poder explicar el funcionamiento
+Para la segunda entrega del proyecto, el equipo queda conformado por **Luz Yadira Ramírez Rojas, Brianda Isabel Sáenz Llorente y Aura Jhosceline Hurtado Botero**. Se deja constancia de que **Maximiliano González López y Nayeli Vergara Mazo se retiraron del equipo**. En consecuencia, las actividades pendientes y los nuevos compromisos serán asumidos por las tres integrantes que continúan.
+
+| Integrante | Rol / módulo asignado | Tareas específicas | Plazo |
+|---|---|---|---|
+| _Aura Jhosceline Hurtado Botero_ | Entregable punto N.º 8 – Plan de versionado | Construir y actualizar el plan de versionado, registrando las versiones del software y los avances relevantes desde el inicio del proyecto hasta la entrega final. | _23/11/2026_ |
+| _Luz Yadira Ramírez Rojas, Brianda Isabel Sáenz Llorente y Aura Jhosceline Hurtado Botero_ | Entregable punto N.º 9 – Algoritmo | Diseñar, desarrollar, integrar, probar y documentar conjuntamente el código fuente del Gestor de PQRS. Las tres integrantes son corresponsables de la construcción del código y deben conocer y comprender su funcionamiento. Los archivos del programa se organizarán en la carpeta `src`. | _23/11/2026_ |
+| _Brianda Isabel Sáenz Llorente_ | Entregable punto N.º 10 – Manual de usuario | Coordinar la elaboración del manual de usuario y documentar las instrucciones necesarias para instalar, ejecutar y utilizar el programa. Las demás integrantes revisarán y validarán su contenido. El documento se almacenará en `docs`. | _23/11/2026_ |
+| _Luz Yadira Ramírez Rojas (líder)_ | Entregable punto N.º 11 – GitHub y actualización de actas (colaboración y responsabilidad) | Verificar la organización y actualización del repositorio, incluyendo las carpetas `src`, `docs`, `images` y `data`, así como los archivos y documentos requeridos para la entrega. | _23/11/2026_ |
+| _Luz Yadira Ramírez Rojas (Líder)_ | Cargue de la actividad en Ude@ | Consolidar los archivos definitivos y realizar el cargue de la segunda entrega en la plataforma Ude@, verificando que los documentos queden adjuntos correctamente. | _27/11/2026_ |
+| _Brianda Isabel Sáenz Llorente_ | Acta de aceptación de disolución del equipo | Elaborar el acta de aceptación de disolución del equipo y gestionar su envío al docente. Se deja constancia de que el documento fue enviado el **13/10/2026**. | _Actividad realizada – 13/10/2026_ |
+
+**Compromiso conjunto:** las tres integrantes activas deberán participar en la construcción, integración, revisión y prueba del código. La asignación de actividades de documentación o gestión no excluye a ninguna integrante de la responsabilidad compartida sobre el desarrollo ni del conocimiento integral del programa.
+
+> Nota: todas las integrantes son responsables de conocer y poder explicar el funcionamiento
 > completo del programa, ya que la sustentación (semana 16) exige que **cualquier** integrante pueda
 > responder preguntas sobre **cualquier** parte del código.
+
 
 ## 3. Criterios de evaluación interna
 
@@ -48,6 +63,17 @@ reporte formal al docente del curso.
 
 Cada integrante, al firmar, acepta la responsabilidad asignada en la tabla anterior.
 
+### 5.1 Aceptación de responsabilidades vigentes
+
+| Nombre completo | Firma |
+|---|---|
+| _Luz Yadira Ramírez Rojas_ | <img src="../imagenes/Yadira.png" width="200"> |
+| _Brianda Isabel Sáenz Llorente_ | <img src="../imagenes/Brianda.png" width="200"> |
+| _Aura Jhosceline Hurtado Botero_ | <img src="../imagenes/Aura Hurtado.png" width="200"> |
+
+
+### 5.2 Firmas del acta inicial
+
 | Nombre completo | Firma |
 |---|---|
 | _Nayeli Vergara Mazo_ |<img src="../imagenes/Nayeli.png" width="200"> |
@@ -55,3 +81,5 @@ Cada integrante, al firmar, acepta la responsabilidad asignada en la tabla anter
 | _Brianda Isabel Saenz Llorente_ | <img src="../imagenes/Brianda.png" width="200"> |
 | _Maximiliano González Lopez_ | <img src="../imagenes/Maximiliano.png" width="200">|
 | _Aura Jhosceline Hurtado Botero_ | <img src="../imagenes/Aura Hurtado.png" width="200"> |
+
+
