@@ -1,0 +1,30 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                            COMPROBANTE DE RADICACION PQRS                                            |
+|                                  UNIVERSIDAD DE ANTIOQUIA - SISTEMA DE GESTION PQRS                                  |
+|                                                                                                                      |
+|                                                  DATOS DEL RADICADO                                                  |
+| ID DE REGISTRO: 000003                                                                                               |
+| RADICADO: PQRS-20261127-024721                                                                                       |
+| FECHA Y HORA DE RADICACION: 2026-11-27 02:47:21                                                                      |
+| ESTADO DE LA PQRS: Registrada                                                                                        |
+| FECHA MAXIMA DE RESPUESTA: 2026-12-27 02:47:21                                                                       |
+|                                                                                                                      |
+|                                                DATOS DEL SOLICITANTE                                                 |
+| NOMBRE COMPLETO: sofia                                                                                               |
+| TIPO DE DOCUMENTO: PP                                                                                                |
+| NUMERO DE DOCUMENTO: 126598752                                                                                       |
+| TELEFONO DE CONTACTO: Otro - 0123654789                                                                              |
+| CORREO ELECTRONICO: sofi@gmail.com                                                                                   |
+| DIRECCION: N/A                                                                                                       |
+|                                                                                                                      |
+|                                                    CLASIFICACION                                                     |
+| TIPO DE SOLICITUD: Sugerencia                                                                                        |
+| CANAL DE RECEPCION: Redes sociales                                                                                   |
+| TIPO DE MASCOTA: Perro                                                                                               |
+| CAMPUS RELACIONADO: Campus Medellin - Ciudadela Robledo                                                              |
+|                                                                                                                      |
+|                                               RESUMEN DE LA SOLICITUD                                                |
+| ASUNTO / TITULO: 126598752                                                                                           |
+|                                                                                                                      |
+|                      Este comprobante certifica el registro de la solicitud en el sistema PQRS.                      |
++----------------------------------------------------------------------------------------------------------------------+
